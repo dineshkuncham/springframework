@@ -1,4 +1,4 @@
-package com.springwebapp.spring5webapp.model;
+package com.springframework.spring5webapp.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

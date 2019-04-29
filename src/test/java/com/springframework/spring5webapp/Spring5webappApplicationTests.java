@@ -1,4 +1,4 @@
-package com.springwebapp.spring5webapp;
+package com.springframework.spring5webapp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

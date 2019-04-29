@@ -1,11 +1,11 @@
-package com.springwebapp.spring5webapp.bootstrap;
+package com.springframework.spring5webapp.bootstrap;
 
-import com.springwebapp.spring5webapp.model.Author;
-import com.springwebapp.spring5webapp.model.Book;
-import com.springwebapp.spring5webapp.model.Publisher;
-import com.springwebapp.spring5webapp.repositories.AuthorRepository;
-import com.springwebapp.spring5webapp.repositories.BookRepository;
-import com.springwebapp.spring5webapp.repositories.PublisherRepository;
+import com.springframework.spring5webapp.model.Author;
+import com.springframework.spring5webapp.model.Book;
+import com.springframework.spring5webapp.model.Publisher;
+import com.springframework.spring5webapp.repositories.AuthorRepository;
+import com.springframework.spring5webapp.repositories.BookRepository;
+import com.springframework.spring5webapp.repositories.PublisherRepository;
 import org.springframework.context.ApplicationListener;
 import org.springframework.context.event.ContextRefreshedEvent;
 import org.springframework.stereotype.Component;
