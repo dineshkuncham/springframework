@@ -1,4 +1,4 @@
-package com.springwebapp.spring5webapp;
+package com.springframework.spring5webapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
